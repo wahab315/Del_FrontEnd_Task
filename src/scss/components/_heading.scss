@@ -1,0 +1,8 @@
+.heading {
+  & > h1 {
+    font-size: 5rem;
+    font-weight: 500;
+    margin: 4rem 0rem;
+    text-align: center;
+  }
+}

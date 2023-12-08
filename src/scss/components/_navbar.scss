@@ -1,0 +1,7 @@
+.navbar {
+  text-align: right;
+  margin-right: 3rem;
+  & > button {
+    width: 150px;
+  }
+}
